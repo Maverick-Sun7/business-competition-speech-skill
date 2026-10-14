@@ -1,0 +1,4 @@
+interface:
+  display_name: "商业比赛演讲稿与预算"
+  short_description: "Rubric-first competition speeches with exact budget alignment"
+  default_prompt: "Use $business-competition-speech to write a Part-based competition speech from my rubric and Excel budget, within my word and time limits."
